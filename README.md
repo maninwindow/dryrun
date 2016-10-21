@@ -48,7 +48,7 @@ Options
     
 ## Issues
 
-    Occur some issues should refer to this [VIDEO](https://www.youtube.com/watch?v=uIjLrSdDrzw) [issues](https://github.com/cesarferreira/dryrun/issues)
+Occur some issues should refer to this [VIDEO](https://www.youtube.com/watch?v=uIjLrSdDrzw)
 
 ## Goodies
 
