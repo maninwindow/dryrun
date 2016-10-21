@@ -45,6 +45,10 @@ Options
 ## Installation
 
     $ gem install dryrun
+    
+## Issues
+
+    Occur some issues should refer to this [VIDEO](https://www.youtube.com/watch?v=uIjLrSdDrzw)
 
 ## Goodies
 
